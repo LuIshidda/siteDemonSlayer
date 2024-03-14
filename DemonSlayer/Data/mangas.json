@@ -1,5 +1,4 @@
-{
-    "mangas": [
+ [
         {
             "volume": 1,
             "titulo": "Demon Slayer - Kimetsu No Yaiba Vol. 1",
@@ -49,79 +48,93 @@
             "imagem": "img/8.jfif"
         },
         {
+            "volume": 9,
             "titulo": "Demon Slayer - Kimetsu No Yaiba Vol. 9",
             "descricao": "Tanjirou e os outros, juntamente ao Hashira do Som - Tengen Usui, se dirigem para o Distrito dos Prazeres, local onde onis vivem. As três esposas de Tengen se infiltraram no local para coletar informações, porém, perderam contato com ele. Tanjirou e os meninos se infiltram disfarçados de mulheres, mas não conseguem descobrir onde os onis estão localizados. Mas as oirans estão nas mãos do inimigo? Conseguirá Tanjirou encontrar os vilões?!",
             "imagem": "img/9.jfif"
         },
         {
+            "volume": 10,
             "titulo": "Demon Slayer - Kimetsu No Yaiba Vol. 10",
             "descricao": "A Oiran Warabihime é a oni que controla todo o distrito das flores! Ao se juntar à parte de seu corpo que estava dividida, ela fica ainda mais poderosa e ataca Tanjirou com todas as suas forças!! Nosso herói recorre à Hinokami Kagura, mas parece que está prestes a exceder seu limite!! Nezuko e Uzui aparecem para lutar no lugar de Tanjirou, mas a batalha toma rumos inesperados!!",
             "imagem": "img/10.jfif"
         },
         {
+            "volume": 11,
             "titulo": "Demon Slayer - Kimetsu No Yaiba Vol. 11",
             "descricao": "A dura batalha no Distrito das Flores contra os irmãos Gyuutarou e Daki, os sextos Jougen, ainda continua. Embora Tanjirou e os outros estejam lutando em conjunto, Uzui, Inosuke e Zenitsu caem diante da lâmina do inimigo. Agora que seus amigos foram derrotados, conseguirá Tanjirou acabar com os dois onis sozinho?!",
             "imagem": "img/11.jfif"
         },
         {
+            "volume": 12,
             "titulo": "Demon Slayer - Kimetsu No Yaiba Vol. 12",
             "descricao": "Pela primeira vez, em 113 anos, um jougen foi derrotado, e isso só causa tensão entre a alta cúpula dos doze Kizuki. Do lado dos humanos, Haganezuka está furioso com Tanjirou, que quebrou sua espada na luta contra Gyuutarou. Agora, nosso herói partirá em uma viagem para conseguir consertá-la.",
             "imagem": "img/12.jfif"
         },
         {
+            "volume": 13,
             "titulo": "Demon Slayer - Kimetsu No Yaiba Vol. 13",
             "descricao": "Hantengu e Gyokko, o quinto e quarto Jougen, atacam o vilarejo dos ferreiros. Durante o ataque, Tokitou, o Hashira da Névoa, percebe Kotetsu sendo atacado por um oni. O que Tokitou, que demonstra pouco interesse e empatia pelos outros, fará?",
             "imagem": "img/13.jfif"
         },
         {
+            "volume": 14,
             "titulo": "Demon Slayer - Kimetsu No Yaiba Vol. 14",
             "descricao": "As partes do corpo do oni Hantengu, que estavam divididas nas quatro emoções, se unem e atacam Tanjirou! O novo oni que surge dessa combinação diz que vai castigar o herói por maltratar os mais fracos, o que deixa Tanjirou completamente indignado! Enquanto isso, Tokitou passa por uma mudança!",
             "imagem": "img/14.jfif"
         },
         {
+            "volume": 15,
             "titulo": "Demon Slayer - Kimetsu No Yaiba Vol. 15",
             "descricao": "Finalmente Tanjirou encurrala Hantengu, a verdadeira forma do oni Jougen. Entretanto, com o amanhecer se aproximando, o corpo de Nezuko chega ao limite por ela ser uma oni!! Preocupado, Tanjirou hesita em liquidar Hantengu. Conseguirá o garoto derrotá-lo como esperado?! E será que Nezuko ficará bem?!",
             "imagem": "img/15.jfif"
         },
         {
+            "volume": 16,
             "titulo": "Demon Slayer - Kimetsu No Yaiba Vol. 16",
             "descricao": "Dando sequência ao treinamento dos Hashiras, Tanjirou vai de encontro a Himejima, o Hashira da Rocha! Depois de passar pelo árduo treinamento de Himejima que consiste em meditar sob a cachoeira, carregar troncos e mover um rochedo, será que Tanjirou conseguirá a aprovação do Hashira?! Enquanto isso, Muzan segue nas sombras e está determinado a encontrar o paradeiro de Nezuko e Ubuyashiki!!",
             "imagem": "img/16.jfif"
         },
         {
+            "volume": 17,
             "titulo": "Demon Slayer - Kimetsu No Yaiba Vol. 17",
             "descricao": "O Kisatsutai invade o Castelo do Infinito para derrotar Muzan! Shinobu está travando uma batalha árdua contra Douma, o Segundo Jougen, devido ao fato de seus venenos não terem efeito nele. Diante dessas circunstâncias, será que ela conseguirá vingar a morte de sua irmã mais velha...?! Enquanto isso, um oni conhecido se põe no caminho de Zenitsu!!",
             "imagem": "img/17.jfif"
         },
         {
+            "volume": 18,
             "titulo": "Demon Slayer - Kimetsu No Yaiba Vol. 18",
             "descricao": "Tanjirou e Giyu estão travando uma luta árdua contra Akaza, o Terceiro Jougen! Ambos conseguem apenas ficar na defensiva diante de todo o poder avassalador de Akaza, mas é no calor desse confronto sem igual que Tanjirou adentra o Mundo Transparente mencionado por seu pai! Será que finalmente a katana de Tanjirou conseguirá ferir Akaza?!",
             "imagem": "img/18.jfif"
         },
         {
+            "volume": 19,
             "titulo": "Demon Slayer - Kimetsu No Yaiba Vol. 19",
             "descricao": "A batalha entre Kanao e Inosuke contra Doma, o Segundo Jougen, chega ao seu clímax! Ambos os combatentes do Kisatsutai se veem em um confronto terrível tendo que lidar com os inúmeros Jutsus de Sangue Demoníaco do oni que matou seus parentes! Diante de tanta desvantagem, será que eles conseguirão evitar a derrota?!",
             "imagem": "img/19.jfif"
         },
         {
+            "volume": 20,
             "titulo": "Demon Slayer - Kimetsu No Yaiba Vol. 20",
             "descricao": "Himejima, o Hashira das Rochas e Shinazugawa, o Hashira do Vento estão enfrentando o Primeiro Jougen! Durante essa dificílima batalha, ambos manifestam a marca e complementam as habilidades um do outro num fantástico trabalho em equipe, mas mesmo assim, continuam sendo terrivelmente pressionados pela força avassaladora do Oni!! Até que Genya consome parte do Primeiro Jougen e se recupera... Qual será a conclusão da batalha?!",
             "imagem": "img/20.jfif"
         },
         {
+            "volume": 21,
             "titulo": "Demon Slayer - Kimetsu No Yaiba Vol. 21",
             "descricao": "A batalha árdua contra o Primeiro Jougen chega a sua conclusão!! Os esforços desesperados de todos levaram o Kisatsutai a conseguir uma vitória importante, mas que custou muito caro... Por fim, Muzan Kibutsuji, o progenitor dos Onis desperta nas profundezas do Castelo do Infinito!! Como Tanjirou lidará com essa ameaça?!",
             "imagem": "img/21.jfif"
         },
         {
+            "volume": 22,
             "titulo": "Demon Slayer - Kimetsu No Yaiba Vol. 22",
             "descricao": "Resta pouco mais de uma hora até o amanhecer e os ataques de Muzan estão se tornando cada vez mais intensos! Será que os poucos hashiras que ainda restam conseguirão causar algum dano nele?! A batalha se aproxima mais e mais de seu ápice, com todos dando tudo de si em cada golpe, entretanto Tanjirou permanece caído...",
             "imagem": "img/22.jfif"
         },
         {
+            "volume": 23,
             "titulo": "Demon Slayer - Kimetsu No Yaiba Vol. 23",
             "descricao": "A batalha entre Muzan Kibutsuji, o progenitor dos Onis e Tanjirou e o Kisatsutai ruma para a sua conclusão!! Os quatro tipos de remédios que Tamayo conseguiu inocular no corpo de Muzan fizeram com que ele enfraquecesse e finalmente fosse encurralado! Qual será o destino de Tanjirou, Nezuko e do Kisatsutai?! O longo confronto contra os Onis finalmente está chegando ao seu fim!!",
             "imagem": "img/23.jfif"
         }
     ]
-}

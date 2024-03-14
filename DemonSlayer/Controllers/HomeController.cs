@@ -16,11 +16,11 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        List<Mangas> mangas =[];
+        List<Manga> mangas =[];
         using (StreamReader leitor = new("Data\\mangas.json"))
         {
             string dados = leitor.ReadToEnd();
-            mangas = JsonSerializer.Deserialize<List<Mangas>>(dados);
+            mangas = JsonSerializer.Deserialize<List<Manga>>(dados);
         }
         return View(mangas);
     }

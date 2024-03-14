@@ -1,0 +1,6 @@
+Configurar o git local.
+git config --global user.name LuIshidda
+git config --global user.email luizhenrisansou23@gmail.com
+
+Criar um projeto mvc
+dotnet new mvc -o Pokedex
